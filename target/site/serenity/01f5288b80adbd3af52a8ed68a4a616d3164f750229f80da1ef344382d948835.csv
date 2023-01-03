@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking crud test with steps","This is for authentication","SUCCESS","2023-01-03T19:13:54.385Z[Europe/London]","0.0","4.48"
+"Booking crud test with steps","This will create new booking","SUCCESS","2023-01-03T19:13:58.881Z[Europe/London]","0.0","0.61"
+"Booking crud test with steps","This method will verify new Booking ID creation ","SUCCESS","2023-01-03T19:13:59.489Z[Europe/London]","0.0","0.67"
+"Booking crud test with steps","This method will get booking with Id","SUCCESS","2023-01-03T19:14:00.164Z[Europe/London]","0.0","0.64"
+"Booking crud test with steps","This method will updated a booking with ID","SUCCESS","2023-01-03T19:14:00.803Z[Europe/London]","0.0","1.33"
+"Booking crud test with steps","Delete the booking and verify","SUCCESS","2023-01-03T19:14:02.134Z[Europe/London]","0.0","1.43"

@@ -1,0 +1,7 @@
+com\herokuapp\booker\bookinginfo\BookingSteps.class
+com\herokuapp\booker\model\BookingPojo$BookingDates.class
+com\herokuapp\booker\constants\Path.class
+com\herokuapp\booker\constants\EndPoints.class
+com\herokuapp\booker\utils\TestUtils.class
+com\herokuapp\booker\utils\PropertyReader.class
+com\herokuapp\booker\model\BookingPojo.class
